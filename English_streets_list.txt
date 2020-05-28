@@ -1,0 +1,402 @@
+Abbey Street
+Ailesbury Road
+Amiens Street
+Anglesea Road
+Anne Street South (South Anne Street)
+Baggot Street
+Bayside Boulevard
+Bridge Street
+Capel Street
+Carrickbrack Road
+Clyde Road
+College Green
+Dame Street
+Dawson Street
+Dorset Street
+Drumcondra Road
+East Wall Road
+Eccles Street
+Ely Place
+Fishamble Street
+Fitzwilliam Square
+Gardiner Street
+Gilford Road
+Grafton Street
+Greenfield Road
+Henrietta Street
+Henry Street
+Herbert Park
+Herbert Road
+Heytesbury Street
+Howth Road
+Kildare Street
+Leeson Street
+Marlborough Street
+Marrowbone Lane
+Merrion Road
+Merrion Square
+Merrion Street
+Molesworth Street
+Mountjoy Square
+Naas Road
+Nassau Street
+Newbridge Avenue
+North Circular Road
+North Great George's Street
+North Strand Road
+Nutley Lane
+O'Connell Street
+Park Avenue
+Parliament Street
+Parnell Square
+Parnell Street
+Pearse Street
+Pembroke Road
+Raglan Road
+St John's Road East (St John's Road)
+St Stephen's Green
+Sandymount Avenue
+Serpentine Avenue
+South Circular Road
+Stillorgan Road
+Sydney Parade Avenue
+Talbot Street
+Temple Bar
+Templeogue Road
+Templeville Road
+Thormanby Road
+Tritonville Road
+Werburgh Street
+Westland Row
+Winetavern Street
+Mary's Abbey
+N Strand Rd
+Beaver Row
+Harry St
+Merrion Row
+Pembroke Rd
+Verbena Lawn (Plásóg Bheirbhéine)
+Fr Mathew Bridge (Droichead an Athar Maitiú)
+Grattan Bridge (Droichead Grattan)
+Greenfield Rd (Bóthar an Ghoirt Ghlais)
+Wellington Pl
+College Green
+Lord Edward St
+Drumcondra Rd
+Bolton St
+Dorset St Lwr
+Swords Rd
+East-Link Toll Bridge
+Poplar Row
+Temple St N
+Merrion St Upr
+Synnott Place
+Seafort Ave
+Westmoreland St
+Station Rd
+Carrickbrack Rd
+Earl St N
+Mary St
+Marlborough Rd
+Stamer St
+New Bridge St
+Dublin Rd
+Morehampton Rd
+Thomas Court
+Pembroke Rd
+Rock Rd
+Merrion Square W
+Ely Place
+Tyrconnell Rd
+Suffolk St
+Leinster St S
+Sandymount Rd
+Portland Row
+Amiens St
+Annesley Bridge Rd
+Greenfield Park
+O'Connell Bridge
+Parnell Sq E
+Grattan Bridge
+Parnell St
+Little Britain St
+Summerhill
+College St
+Ringsend Rd
+Baggot St Upr
+Merrion Rd
+Simmonscourt Rd
+Harrington St
+Bray Rd
+Earl St N
+Essex St E
+Fleet St
+Terenure Place
+Tallaght Road
+Springfield Avenue
+Greentrees Road
+Irishtown Rd
+Bride St
+Lombard Street
+O'Donovan Rossa Bridge
+St Michael's Hill
+Beresford St
+Capel St
+Sydney Parade Ave
+Merrion Rd
+Stillorgan Rd
+Memorial Rd
+Beresford Pl
+Talbot St
+Portland Row
+Seville Pl
+Merrion Road
+Stillorgan Road
+Grafton St
+Dawson St
+Merrion St Upr
+Waterloo Rd
+Eastmoreland Pl
+Dublin Rd
+Bayside Sq
+Verbena Ave
+Usher's Qy
+Merchant's Qy
+Cornmarket
+High St
+Ormond Qy
+Mary's Abbey
+Abbey St Upr
+Little Mary St
+Mary St
+Parnell St
+Bolton St
+Strand Rd
+Thormanby Rd
+Pembroke Rd
+Raglan Rd
+Pembroke Park
+Dame St
+Grafton St
+Westmoreland St
+Church La
+Great Georges St S
+Parliament St
+Cork Hill
+Nassau St
+Molesworth St
+St Stephen's Green
+Binns Br (Royal Canal)
+N Circular Rd
+Binns Br (Royal Canal)
+Clonliffe Rd
+Griffith Ave
+North Wall Qy
+Sheriff St Upr
+Alfie Byrne Rd
+North Strand Rd
+Dorset St
+Berkeley Rd
+Merrion Row
+Baggot St Lwr
+Essex Qy
+Wood Qy
+Essex St W
+Lord Edward St
+Christchurch Pl
+Beresford Pl
+Talbot St
+Parnell St
+Summerhill
+Dorset Street
+Sandymount Green
+Sandymount Ave
+Park Ave
+Strand Rd
+College Green
+Nassau St
+Suffolk St
+St Stephen's Green
+Dublin Rd
+Howth Rd
+Strand Rd
+Bolton St
+King's Inns
+O'Connell St
+Moore St
+Liffey St Upr
+Pembroke Road
+Morehampton Rd
+Donnybrook Rd
+Landsdowne Rd
+Tritonville Rd
+Pleasants St
+Harrington St
+Fairview
+Collins Ave E
+Brookwood Ave
+Sybil Hill Rd
+Station Rd
+Main St (Raheny)
+James Larkin Rd
+Kilbarrack Rd
+Leinster St S
+Molesworth St
+St Stephen's Green
+St Stephen's Green
+Grand Parade
+Mespil Rd
+The Appian Way
+Wellington Pl
+Eden Qy
+Abbey St Lwr
+Earl St N
+Talbot St
+Parnell St
+School St
+Earl St S
+Cork Street
+Anglesea Rd
+Serpentine Ave
+Fenian St
+Clare St
+Merrion Square
+Merrion Row
+Baggot St Lwr
+Dawson St
+Kildare St
+Davitt Rd
+Kylemore Rd
+Walkinstown Rd
+M50 motorway
+Fonthill Rd S
+Belgard Rd
+Citywest Rd
+?
+Grafton St
+Dawson St
+Kildare St
+Herbert Rd
+Tritonville Rd
+Summerhill Parade
+Dorset St Lwr
+Phibsborough Rd
+Cabra St
+Prussia St
+Old Cabra Rd
+Infirmary Rd
+Great Denmark Street
+Parnell Street
+Portland Row
+Seville Pl
+Poplar Row
+East Wall Rd
+Merrion Rd
+Stillorgan Rd
+Bachelors Walk
+Eden Qy
+Henry St
+Earl St N
+Parnell St
+Gilford Rd
+Sydney Parade Ave
+Essex Qy
+Wellington Qy
+Lord Edward St
+Dame St
+Capel St
+Jervis St
+Moore St
+Parnell Sq
+O'Connell St
+Gardiner St
+D'Olier St
+Tara St
+Westland Row
+Lombard St E
+Erne St
+Macken St
+MacMahon Br (Grand Canal)
+Northumberland Rd
+Clyde Rd
+Shelbourne Rd
+Ball's Br (River Dodder)
+Pembroke Rd
+Clyde Rd
+Merrion Rd
+Gilford Rd
+Merrion Rd
+Tritonville Road
+Claremont Rd
+?
+Clanbrassil St
+Dolphin's Barn
+Suir Rd
+Emmet Rd
+Inchicore Rd
+Con Colbert Rd (N4 road)
+Chapelizod Rd
+Anglesea Br (River Dodder)
+Nutley La
+Greenfield Park
+Mount Merrion Ave
+Leopardstown Rd
+Newtownpark Ave
+Kill La
+Near Merrion Rd
+Ailesbury Rd
+Park Ave
+Strand Rd
+Marlborough St
+Gardiner St Lwr
+Amiens St
+Temple La
+Bedford Row
+Anglesea St
+Terenure Road West
+Fergus Road
+Olney Crescent
+Rathdown Park
+Lakelands Park
+Rathdown Avenue
+Terenure College
+Fortfield Road
+Springfield Road
+Templeville Road
+Springfield Avenue
+Rosehall
+Riverside Cottages
+Old Bridge Road (Templeogue Bridge)
+Cypress Grove Road
+Corrybeg
+Cheeverstown
+Templeogue House
+Hillcrest
+Wellington Road (Spawell Roundabout)
+M50 motorway
+Templeogue Road
+Templeville Park
+Fortfield Park
+Templeville Avenue
+Cypress Grove Road
+Wainsfort Road
+Wainsfort Crescent
+Glendown Road
+Grosvenor Court
+Wellington Road
+Main St
+Carrickbrack Rd
+Londonbridge Rd
+Church Ave
+Claremont Rd
+Serpentine Ave
+Christchurch Pl
+Lord Edward St
+Bull Alley St
+Golden La
+Pearse Street
+Lincoln Place
+Merchant's Qy
+Wood Qy
+High St
+Christchurch Pl
